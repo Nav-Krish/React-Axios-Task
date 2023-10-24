@@ -1,0 +1,31 @@
+
+.App {
+  text-align: center;
+  padding-bottom: 60px;
+  margin: auto;
+}
+.App h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.App h2{
+  margin-left: 43%;
+  color: black;
+}
+
+.Acccordian{
+ margin: auto ;
+}
+
+.App .header {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.sub-heading{
+  font-weight: 600;
+  color: green;
+}
